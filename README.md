@@ -11,7 +11,7 @@ Cada estudiante debe agregar su nombre y el enlace de sus repositorios.
 
 | N° | Nombre del estudiante               | Repositorio|
 |----|----------------------|--------------|
-| 1 | ABAD MIJA, BAKNER FABIAN |
+| 1 | ABAD MIJA, BAKNER FABIAN | PRESENTE | https://github.com/Fabian-abadM21/Repositorio_FabianAbad.git
 | 2 | ASMAD MONTEJO, GABRIEL JESUS |
 | 3 | BAYONA SILVA, BLANCA RUBI |
 | 4 | BENITES ESCOBAR, DENZEL STEPHANO |
